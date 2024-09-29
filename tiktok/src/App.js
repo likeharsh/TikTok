@@ -7,7 +7,7 @@ function App() {
     // BEM naming conversion
     <div className="app">
       <h1>
-        Let's build a full stack MERN tik tok clone
+        Let's build a full stack MERN tik tok clone!
       </h1>
      <Video />
       {/* {app container} */}
